@@ -93,8 +93,6 @@ To use this project, follow these steps:
 
 <br />
 
-🚀 **Streamlit application:** [https://huggingface.co/spaces/gopiashokan/Resume-Analyzer-AI](https://huggingface.co/spaces/gopiashokan/Resume-Analyzer-AI)
-
 <br />
 
 **Selenium-Powered LinkedIn Data Scraping:**
@@ -102,8 +100,6 @@ To use this project, follow these steps:
 - This streamlined process enables users to easily review scraped job details and apply for positions, simplifying their job search and application experience.
 
 <br />
-
-🎥 **Project Demo Video:** [https://youtu.be/wFouWeK7NPg](https://youtu.be/wFouWeK7NPg)
 
 <br />
 
